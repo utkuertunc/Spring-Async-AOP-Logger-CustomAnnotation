@@ -4,9 +4,8 @@ This project has three main goals => Logging with AOP, processing asynchronous a
 
 Outputs are located at the bottom of the page.
 
-### Why did I use Aspect? (Cross Cutting)![async](https://user-images.githubusercontent.com/38990648/127252608-d47342a7-880a-4e20-9dd3-c5d47ee7141c.png)
+### Why did I use Aspect? (Cross Cutting)
  
-
 Cause I want to get log parameter when before  the method return and i want get log return type when after returning. (with timestamp)
 
 I use AspectJ for that. (@Before and @AfterReturning)
