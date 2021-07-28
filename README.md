@@ -1,4 +1,4 @@
-# Working Asynchronous and loggig with Custom AOP Annotation
+# Working Asynchronous and logging with Custom AOP Annotation
 
 This project has three main goals => Logging with AOP, processing asynchronous and thread safe.
 
